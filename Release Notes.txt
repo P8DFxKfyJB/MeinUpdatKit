@@ -1,0 +1,7 @@
+MeinUpdateKit ist ein Kurzbefehl der andere Kurzbefehle auf eventuell vorhandene Aktualisierungen überprüft.
+Eine JSON-Datei, die Links der verschiedenen Projekte vorhält bildet dabei die Basis.
+Die Projekte rufen von den Geräten aus ihre jeweilige Datei "update.json" ab.
+
+Erster Einsatzzweck:
+
+initiale Entwicklung
