@@ -15,3 +15,7 @@ neue Zeile eingefügt
 Switch URL to SSH
 
 git remote set-url origin git@github.com:P8DFxKfyJB/MeinUpdateKit.git
+
+
+Neue Zeile:
+Test vom iPad
