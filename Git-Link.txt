@@ -10,3 +10,8 @@ irgendwas geändert
 neue Zeile eingefügt
 
 /Users/jens/Library/Mobile\ Documents/iCloud~is~workflow~my~workflows/Documents/MeinUpdateKit
+
+
+Switch URL to SSH
+
+git remote set-url origin git@github.com:P8DFxKfyJB/MeinUpdateKit.git
