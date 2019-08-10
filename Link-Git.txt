@@ -2,3 +2,7 @@ https://gist.githubusercontent.com/P8DFxKfyJB/df39cc8e7da7e3ee00998065df076ab2/r
 
 
 https://gist.github.com/P8DFxKfyJB/df39cc8e7da7e3ee00998065df076ab2
+
+Pfad zu Repo lokal
+
+/Users/jens/Library/Mobile Documents/iCloud~is~workflow~my~workflows/Documents/MeinUpdateKit
