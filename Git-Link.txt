@@ -8,6 +8,7 @@ Lokaler link zu "iCloud Drive/Shortcuts"
 
 ~/Library/Mobile\ Documents/iCloud~is~workflow~my~workflows/Documents
 
+URL der Update-Datei für alle Kurzbefehle
 
 Switch URL to SSH
 
