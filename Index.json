@@ -1,9 +1,16 @@
 {
-	 "MeinUpdateSet":
-    {
-      "Version": "0.2",
-      "URL": "Kurzbefehl 1 für MeinUpdateSet",
-      "Notes": "Testlauf für erste VÖ",
-      "Release": "08.08.19"
-	}
+  "MeinUpdateSet":
+      {
+        "Version": "0.2",
+        "URL": "Kurzbefehl 1 für MeinUpdateSet",
+        "Notes": "Testlauf für erste VÖ",
+        "Release": "08.08.19"
+      }
+  "Input >=< 100":
+	   {
+       "Version": "1.0",
+       "URL": "https://www.icloud.com/shortcuts/e87f021c67ae42f483f5e45c96024bb8",
+       "Notes": "Initialisierung der ersten VÖ",
+       "Release": "11.08.2019"
+     }
 }
