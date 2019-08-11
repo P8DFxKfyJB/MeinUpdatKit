@@ -6,7 +6,7 @@ https://routinehub.co/user/gwadro
 
 UpdateHubUpdate
 
-Current Version: "1.0"
+Current Version: "0.3"
 Update URL: "https://github.com/P8DFxKfyJB/MeinUpdateSet/blob/master/Meine-MeinUpdateSet-Kurzbefehle/Kurzbefehl%201%20für%20MeinUpdateSet/Versions-Info.json"
 
 UpdateHubUpdate
