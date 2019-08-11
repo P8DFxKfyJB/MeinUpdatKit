@@ -1,1 +1,12 @@
-https://raw.githubusercontent.com/P8DFxKfyJB/MeinUpdateSet/master/Meine-MeinUpdateSet-Kurzbefehle/Kurzbefehl%201%20für%20MeinUpdateSet/Versions-Info.json
+Made by Gwadro
+https://routinehub.co/user/gwadro
+/u/gwadro
+@gwadro
+
+
+UpdateHubUpdate
+
+Current Version: "1.0"
+Update URL: "https://github.com/P8DFxKfyJB/MeinUpdateSet/blob/master/Meine-MeinUpdateSet-Kurzbefehle/Kurzbefehl%201%20für%20MeinUpdateSet/Versions-Info.json"
+
+UpdateHubUpdate
