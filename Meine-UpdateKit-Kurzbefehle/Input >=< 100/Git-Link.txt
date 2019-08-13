@@ -4,9 +4,8 @@ https://routinehub.co/user/gwadro
 @gwadro
 
 
-UpdateHubUpdate
+Eintrag für UpdateKit-Integration
 
-Current Version: "1.0"
-Update URL: "https://github.com/P8DFxKfyJB/MeinUpdateSet/blob/master/Meine-MeinUpdateSet-Kurzbefehle/Input%20%3E%3D%3C%20100/Versions-Info.json"
+Link für Update URL:    https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Input%20%3E%3D%3C%20100/Update.json
 
-UpdateHubUpdate
+Link für Release Notes: https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Input%20%3E%3D%3C%20100/Release%20Notes.txt
