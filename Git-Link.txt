@@ -1,6 +1,6 @@
 Link zum gist:
 
-https://github.com/P8DFxKfyJB/MeinUpdateSet.git
+https://github.com/P8DFxKfyJB/MeinUpdatKit.git
 
 Pfad zu Repo lokal
 
@@ -12,4 +12,4 @@ URL der Update-Datei für alle Kurzbefehle
 
 Switch URL to SSH
 
-git remote set-url origin git@github.com:P8DFxKfyJB/MeinUpdateSet.git
+git remote set-url origin git@github.com:P8DFxKfyJB/MeinUpdateKit.git
