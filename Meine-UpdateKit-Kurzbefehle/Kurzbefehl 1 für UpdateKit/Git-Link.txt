@@ -15,6 +15,6 @@ UpdateHubUpdate
 
 Eintrag für UpdateKit-Integration
 
-Link für Update URL:    
+Link für Update URL:    https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Kurzbefehl%201%20für%20UpdateKit/Update.json
 
-Link für Release Notes:
+Link für Release Notes: 
