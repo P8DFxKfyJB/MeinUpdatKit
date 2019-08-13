@@ -10,3 +10,11 @@ Current Version: "0.3"
 Update URL: "https://github.com/P8DFxKfyJB/MeinUpdateSet/blob/master/Meine-MeinUpdateSet-Kurzbefehle/Kurzbefehl%201%20für%20MeinUpdateSet/Versions-Info.json"
 
 UpdateHubUpdate
+
+
+
+Eintrag für UpdateKit-Integration
+
+Link für Update URL:    
+
+Link für Release Notes:
