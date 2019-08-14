@@ -1,1 +1,1 @@
-Erste Veröffentlichung mit Integration von UpdateKit.
+Erste Veröffentlichung mit UpdateKit-Integration
