@@ -1,0 +1,7 @@
+{
+	"Name": "Meine-UpdateKit-Integration",
+	"Version": "1",
+	"URL": "https://www.icloud.com/shortcuts/ec0336b6733d4da398c62fd711388ad7",
+	"Notes": "Erste Veröffentlichung mit UpdateKit-Integration.",
+	"Release": "14.08.2019"
+}
