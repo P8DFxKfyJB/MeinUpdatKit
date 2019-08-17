@@ -39,7 +39,7 @@ Also alles auf Anfang und alles umbenennen auf UpdateKit.
 
 ## Kontakt und Support
 
-### Telegram Kanal für Updates zu meinen Kurzbefehlen:
+### Telegram Kanal für Updates zu meinen Kurzbefehlen
 
 [Link zum Telegram-Kanal](https://t.me/SC_Updates_Gwadro)
 
