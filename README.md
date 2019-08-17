@@ -49,4 +49,4 @@ Einen Chat für Fragen und Anregungen zu meinen Kurzbefehlen findest du dort auc
 
 [Unterforum auf apfeltalk.de](https://www.apfeltalk.de/community/threads/apple-kurzbefehle-hilfe-anleitungen-kfka.533890/) Dort haben wir einen eigenen Bereich für Shortcuts/Kurzbefehle, schau einfach mal vorbei.
 
-Es gibt auch eine kleine [Sammlung von Kurzbefehlen](https://www.apfeltalk.de/community/threads/sammlung-nuetzlicher-kurzbefehle.534621/) dort. Nichts aufregendes, sondern mehr aus den Anfängen. als Workflow / Shortcuts populär wurde.
+Es gibt auch eine kleine [Sammlung von Kurzbefehlen](https://www.apfeltalk.de/community/threads/sammlung-nuetzlicher-kurzbefehle.534621/) dort. Nichts aufregendes, sondern mehr aus den Anfängen, als Workflow / Shortcuts populär wurde.
