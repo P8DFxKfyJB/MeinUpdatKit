@@ -6,7 +6,7 @@ Hier findest du eine Sammlung meiner veröffentlichten Kurzbefehle, die ich für
 
 Name | Kurzbeschreibung | Link
 --|---|--
-Connection Toggle | Geräte-Einstellungen mit einem Klick ein / aus | [Zum Repo](/Connection%20Toggle%20🛠) 
+Connection Toggle | Geräte-Einstellungen mit einem Klick ein / aus | [[Zum Repo](/tree/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠)](/Connection%20Toggle%20🛠) 
   |   |  
   |   |  
   |   |  
