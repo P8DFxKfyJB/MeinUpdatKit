@@ -1,6 +1,8 @@
 # Meine UpdateKit-Kurzbefehle
 
-Hier findest du eine Sammlung meiner veröffentlichten Kurzbefehle, die ich für veröffentlichungswert halte.
+Hier findest du eine Sammlung meiner veröffentlichten Kurzbefehle, die ich für veröffentlichungswert halte. Ich habe derzeit 500 Kurzbefehle auf meinen Geräten. Viele sind pure Basics, die werden hier auch beröffentlicht. Manche sind hochkomplex.
+
+Ich versuche nach und nach alles hier bereitzustellen. Manches Projekt hier ist noch nicht vollständug, einfach in ein paar Tagen wieder vorbei schauen.
 
 ###  Übersicht und Kurzbeschreibung:
 
