@@ -6,6 +6,8 @@ Hier findesst du alle meine veröffentlichten Kurzbefehle. Ab August 2019 unters
 
 ### Was ist UpdateKit?
 
+#### Text noch kleiner
+
 UpdateKit überprüft alle unterstützten Kurzbefehle auf eventuell vorliegende Aktualisierungen ohne Zutun des Benutzers.
 
 [UpdateKit For Apple Shortcuts, by Mike Beasley](https://www.mikebeas.com/updatekit/)
