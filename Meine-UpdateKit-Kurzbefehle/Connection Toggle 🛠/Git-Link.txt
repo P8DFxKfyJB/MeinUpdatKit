@@ -8,8 +8,8 @@ Eintrag für Connection Toggle
 
 Link für Update URL:
 
-
+  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Update.json
 
 Link für Release Notes:
 
-  
+  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Release%20Notes.txt
