@@ -2,14 +2,12 @@
 
 Mit diesem Kurzbefehl kannst du Termine aus einem Kalender in einen anderen kopieren.
 
-Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf [apfeltalk.de](https://www.apfeltalk.de)
-
 ###  Übersicht und Kurzbeschreibung:
 
+Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf [apfeltalk.de](https://www.apfeltalk.de)
 
+Dort haben wir auch einen [Foren-Bereich](https://www.apfeltalk.de/community/threads/apple-kurzbefehle-hilfe-anleitungen-kfka.533890/) für Shortcuts/Kurzbefehle, schau einfach mal vorbei.
 
-### Telegram Kanal für Updates zu meinen Kurzbefehlen:
+### Kontakt für Hilfe und Fragen
 
-[Link zum Telegram-Kanal](https://t.me/SC_Updates_Gwadro)
-
-Einen Chat für Fragen und Anregungen zu meinen Kurzbefehlen findest du dort auch.
+[Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md)
