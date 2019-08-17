@@ -27,7 +27,7 @@ Liegt ein Update vor, erhältst du ein Hinweis darauf und hast folgende Auswahl:
 
 
 
-###  Erster Einsatzzweck:
+###  Erster Einsatzzweck
 
 initiale Entwicklung
 
