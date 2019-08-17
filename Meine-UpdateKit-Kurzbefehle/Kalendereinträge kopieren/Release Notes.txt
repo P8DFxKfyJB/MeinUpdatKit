@@ -1,1 +1,1 @@
-Erste Veröffentlichung mit UpdateKit
+Erstes Update mit UpdateKit
