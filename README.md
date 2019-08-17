@@ -16,7 +16,7 @@ UpdateKit überprüft alle unterstützten Kurzbefehle auf eventuell vorliegende 
 
 Die Funktion **UpdateKit** wird am Ende eines Kurzbefehles aufgerufen. Das vermeidet eine Unterbrechung der Benutzererfahrung während der Verwendung eines Kurzbefehles.
 
-Dies geschieht erstmals, wenn du den Kurzbefehl zum ersten Mal startest. Dabei wird das aktuelle Datum festgehalten. Beim nächsten Start dieses Kurzbefehles wird das aktuelle Datum mit dem Datum der letzten Überprüfung auf ein Update abgeglichen. Wenn die Anzahl der Tage den einstellbaren Schwellenwert (Update-Intervall) überschreitet, wird der Kurzbefehl **UpdateKit** gestartet und dieser such nach einem Update für **den eigentlichen** Kurzbefehl.
+Dies geschieht erstmals, wenn du den Kurzbefehl zum ersten Mal startest. Dabei wird das aktuelle Datum festgehalten. Beim nächsten Start dieses Kurzbefehles wird das aktuelle Datum mit dem Datum der letzten Überprüfung abgeglichen. Wenn die Anzahl der Tage den einstellbaren Schwellenwert (Update-Intervall) überschreitet, wird der Kurzbefehl **UpdateKit** gestartet und dieser such nach einem Update für den **eigentlichen** Kurzbefehl, der vom Benutzer gestartet wurde.
 
 Liegt ein Update vor, erhältst du ein Hinweis darauf und hast folgende Auswahl:
 
