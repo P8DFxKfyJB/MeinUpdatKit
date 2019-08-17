@@ -1,9 +1,7 @@
 {
 	"Name": "Kalendereinträge kopieren",
-	"Version": "1.1",
-	"URL": "https://www.icloud.com/shortcuts/477d2b0dfb52493e9089b89bccdedd33",
-	"Notes": "Erstes Update mit UpdateKit
-
-Erkennen von Duplikaten funktioniert.",
+	"Version": "1.2",
+	"URL": "https://www.icloud.com/shortcuts/b4b1c0d0c48941f683cfb571f756f89a",
+	"Notes": "Erste Veröffentlichung mit UpdateKit",
 	"Release": "17.08.2019"
 }
