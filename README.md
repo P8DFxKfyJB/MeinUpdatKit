@@ -8,15 +8,14 @@ Die Projekte rufen von den Geräten aus ihre jeweilige Datei "Versions-Info.json
 
 initiale Entwicklung
 
-
-Der Projektname muss noch überall in MeinUpdateSet geändert werden, da MeinUpdateKit Fehltreffer bei der Suche nach "Meine Kurzbefehle" enthält UpdateKit erzeugt.
-------------
-Erledigt
+### Umstellung auf UpdateKit
 
 Erneute Umstellung auf UpdateKit. UpdateHub produziert unerklärliche Fehlermeldungen.
 
 Also alles auf Anfang und alles umbenennen auf UpdateKit.
 
- Telegram Kanal für Updates zu meinen Kurzbefehlen:
+### Telegram Kanal für Updates zu meinen Kurzbefehlen:
 
- https://t.me/SC_Updates_Gwadro
+[Link zum Telegram-Kanal](https://t.me/SC_Updates_Gwadro)
+
+Einen Chat für Fragen und Anregungen zu meinen Kurzbefehlen findest du dort auch. 
