@@ -2,7 +2,7 @@
 
 Mit diesem Kurzbefehl kannst du Termine aus einem Kalender in einen anderen kopieren.
 
-Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf [(https://apfeltalk.de)]
+Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf (https://apfeltalk.de)
 
 ###  Übersicht und Kurzbeschreibung:
 
