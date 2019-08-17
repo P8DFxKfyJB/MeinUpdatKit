@@ -16,11 +16,16 @@ Dann bist du hier richtig. Der Kurzbefehl macht genau das.
  - Stromspar-Modus
  - Medien-Lautstärke
  - Display-Helligkeit
++ Anschließend startest du den Kurzbefehl
 
-![Screenshot](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Screenshot_Connection_Toggle.png?resize=200)
+Da für dieses Gerät bisher keine Daten gespeichert sind werden die gewünschten Soll-Zustände abgefragt und gespeichert.
+Diese Standardwerte kannst du jederzeit abfragen, also anzeigen lassen und später mit einem "Klick" wiederherstellen.
 
-+ Anschließend startest du den Kurzbefehl, da für dieses Gerät bisher keine Daten gespeichert sind werden die gewünschten Soll-Zustände abgefragt und gespeichert
-+ Diese Standardwerte kannst du jederzeit abfragen, also anzeigen lassen und später mit einem "Klick" wiederherstellen.
+![Screenshot](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Screenshot_Connection_Toggle1.png?resize=200) ![Screenshot](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Screenshot_Connection_Toggle2.png?resize=200)
+
+### Hauptfunktion des Kurzbefehles
+
+Die eigentliche Funtion, der Low Power Mode, ist natürlich weiterhin enthalten. Di kannst mit einem "Klick" alle Funktionen deaktivieren. Sinn des Ganzen ist, dass die Batterie schneller aufgeladen wird, wenn die Verbraucher deaktiviert sind. **Du bekommst das Gerät wesentlich schneller aufgeladen.**
 
 ### Grund für diesen Kurzbefehl
 
