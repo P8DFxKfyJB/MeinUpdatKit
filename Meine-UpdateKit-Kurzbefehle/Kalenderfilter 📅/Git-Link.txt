@@ -4,8 +4,12 @@ https://routinehub.co/user/gwadro
 @gwadro
 
 
-Eintrag für UpdateKit-Integration
+Eintrag für Kalenderfilter 📅
 
-Link für Update URL:    https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kalenderfilter%20📅/Update.json
+Link für Update URL:
 
-Link für Release Notes: https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kalenderfilter%20📅/Release%20Notes.txt
+  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kalenderfilter%20📅/Update.json
+
+Link für Release Notes:
+
+  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kalenderfilter%20📅/Release%20Notes.txt

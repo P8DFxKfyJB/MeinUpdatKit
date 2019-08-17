@@ -3,9 +3,9 @@ https://routinehub.co/user/gwadro
 /u/gwadro
 @gwadro
 
-Eintrag für UpdateKit-Integration
+Eintrag für Kurzbefehl 1 für UpdateKit
 
-Link für Update URL: 
+Link für Update URL:
 
 https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kurzbefehl%201%20für%20UpdateKit/Update.json
 
