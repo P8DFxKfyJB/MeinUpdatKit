@@ -9,13 +9,13 @@ Du wünscht dir eine Möglichkeit die Einstellungen für WLAN, Bluetooth, Mobile
 Dann bist du hier richtig. Der Kurzbefehl macht genau das.
 
 + Stelle dein iDevice wie gewünscht ein.
- - Flugmodus
- - WLAN
- - Bluetooth
- - Mobile Daten
- - Stromspar-Modus
- - Medien-Lautstärke
- - Display-Helligkeit
+  - Flugmodus
+  - WLAN
+  - Bluetooth
+  - Mobile Daten
+  - Stromspar-Modus
+  - Medien-Lautstärke
+  - Display-Helligkeit
 + Anschließend startest du den Kurzbefehl
 
 Da für dieses Gerät bisher keine Daten gespeichert sind werden die gewünschten Soll-Zustände abgefragt und gespeichert.
