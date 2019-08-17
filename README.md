@@ -1,8 +1,8 @@
 # Meine UpdateKit-Kurzbefehle
 
-MeinUpdateSet ist ein Kurzbefehl der andere Kurzbefehle auf eventuell vorhandene Aktualisierungen überprüft.
-Eine JSON-Datei, die Links der verschiedenen Projekte vorhält bildet dabei die Basis.
-Die Projekte rufen von den Geräten aus ihre jeweilige Datei "Versions-Info.json" ab.
+Hier findesst du alle meine veröffentlichten Kurzbefehle. Ab August 2019 unterstützt jeder Kurzbefehl [UpdateKit](https://www.mikebeas.com/updatekit/).
+
+
 
 ###  Erster Einsatzzweck:
 
