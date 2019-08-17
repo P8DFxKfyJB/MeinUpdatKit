@@ -13,7 +13,7 @@ Dann bist du hier richtig. Der Kurzbefehl macht genau das.
   - WLAN
   - Bluetooth
   - Mobile Daten
-  - Stromsparmodus
+  - Stromsparm odus
   - Medien-Lautstärke
   - Display-Helligkeit
 + Anschließend startest du den Kurzbefehl
@@ -33,6 +33,15 @@ Also, wenn es mal schnell gehen muss, oder auch generell, wenn Du das Gerät ein
 
 … war ein Low Power Mode Kurzbefehl, gefunden auf [RoutineHub](https://routinehub.co/), [ULTRA Low Power Mode](https://routinehub.co/shortcut/1887) Dieser hat mich zu meiner Extended-Version inspiriert.
 
+### Download
+
+QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
+
+![QR-Code](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Bild.png?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
+
+Klassischer Download-Link im **Safari** deines iDevices.
+
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/d69ef57689f040e2bcd59d4496a679cb)
 
 ### Kontakt für Hilfe und Fragen
 
