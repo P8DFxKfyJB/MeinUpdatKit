@@ -1,3 +1,0 @@
-Erstes Update mit UpdateKit
-
-Erkennen von Duplikaten funktioniert.
