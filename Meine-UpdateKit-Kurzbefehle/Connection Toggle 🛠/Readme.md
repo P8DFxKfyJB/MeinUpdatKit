@@ -13,7 +13,7 @@ Dann bist du hier richtig. Der Kurzbefehl macht genau das.
   - WLAN
   - Bluetooth
   - Mobile Daten
-  - Stromspar-Modus
+  - Stromsparmodus
   - Medien-Lautstärke
   - Display-Helligkeit
 + Anschließend startest du den Kurzbefehl
