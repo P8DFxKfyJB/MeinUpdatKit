@@ -7,7 +7,7 @@ Hier findest du eine Sammlung meiner veröffentlichten Kurzbefehle, die ich für
 Name | Kurzbeschreibung | Link
 --|---|--
 Connection Toggle | Geräte-Einstellungen mit einem Klick ein / aus | [Zum Repo](Connection%20Toggle%20🛠)  
-Dateien Sortieren & zusammenführen | Text oder PDF-Dateien "mergen" also zusammenführen | [Zum Repo](Dateien Sortieren & zusammenführen)  
+Dateien Sortieren & zusammenführen | Text oder PDF-Dateien "mergen" also zusammenführen | [Zum Repo](Dateien%20Sortieren%20%26%20zusammenführen)  
   |   |  
   |   |  
   |   |  
