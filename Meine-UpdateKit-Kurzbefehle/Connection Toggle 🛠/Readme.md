@@ -17,7 +17,7 @@ Dann bist du hier richtig. Der Kurzbefehl macht genau das.
  - Medien-Lautstärke
  - Display-Helligkeit
 
-![Screenshot](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Screenshot_Connection_Toggle.png?&resize=300)
+![Screenshot](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Screenshot_Connection_Toggle.png?resize=300)
 
 + Anschließend startest du den Kurzbefehl, da für dieses Gerät bisher keine Daten gespeichert sind werden die gewünschten Soll-Zustände abgefragt und gespeichert
 + Diese Standardwerte kannst du jederzeit abfragen, also anzeigen lassen und später mit einem "Klick" wiederherstellen.
