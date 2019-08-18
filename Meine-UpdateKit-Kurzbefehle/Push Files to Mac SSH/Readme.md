@@ -180,3 +180,17 @@ Eine einzelne Datei hingegen wird bei der Auswahl heruntergeladen und übernomme
 - Speichern mehrerer Verbindungen
 - Auswahl-Menü für verschiedene Zielordner
 - UpdateKit-Integration
+
+### Download
+
+QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
+
+![QR-Code](images/Bild.png?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
+
+Klassischer Download-Link im **Safari** deines iDevices.
+
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/0b5d3758204e4e948ddbe43a59ef1efb)
+
+### Kontakt für Hilfe und Fragen
+
+[Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md)
