@@ -106,3 +106,5 @@ Wenn die Login-Daten korrekt sind wird das Verzeichnis "Hauptordner" und "Untero
 Standard ist `~/Desktop/Ordner` wobei "Ordner" den Namen des Gerätemodell enthält. So erhältst Du einen neuen Ordner "Unterordner-Name des Gerätes" Den Namen "Unterordner" hast du bei der Einrichtung festgelegt oder belassen. Dann heißt er bei einem iPhone: `Testordner-iPhone`
 
 Als nächstes erschein das Menü:
+
+![](images/Menü.png)
