@@ -60,6 +60,7 @@ Das liegt einfach an dem Umstand, das das Gerät Rechenleistung für die grafisc
 
 ![](images/Bibliothek.png)
 
+---
 #### Einmalig die Daten für den Login per SSH eingeben
 
 Beim ersten Start wirst du nach den Login-Daten für den Mac/anderen Rechner gefragt.
@@ -70,19 +71,25 @@ Beim ersten Start wirst du nach den Login-Daten für den Mac/anderen Rechner gef
 
 ![](images/Host.png)
 
+---
 **2. Benutzer**
 
 *Dein Benutzername auf dem Zielrechner*
 
 ![](images/Benutzer.png)
 
+---
 **3. Passwort**
 
 *Das Passwort für den Benutzer auf dem Zielrechner*
 
 ![](images/Passwort.png)
 
+---
+
 #### Das war die Ersteinrichtung
+Das siehst Du im Normalfall nie wieder. Außer du löscht die Login-Daten. Wie das funktioniert erfährst Du weiter unten.
+
 ---
 #### Was passiert mit meinen eingegebenen Daten?
 
@@ -94,6 +101,7 @@ Diese eingegebenen Daten werden in einer JSON-Datei in deinem iCloud Drive gespe
 
 Da die App Kurzbefehle nicht aus ihrer Sandbox raus kann um Dateien zu speichern, kann diese Datei nicht weiter oben im Verzeichnis-Baum abgelegt werden.
 
+---
 #### Wie kann ich diese Daten löschen?
 
 Das ist einfacher als gedacht. Du öffnest die App "Dateien" navigierst zum Ordner `iCloud Drive/Shortcuts` markierst den Ordner mit "Auswählen" bzw "Select" und löscht den Ordner "SSH" mit dem Papierkorb-Symbol.
@@ -147,7 +155,9 @@ Das Übertragen von Dateien aller Art verhält sich quasi analog, ist nur nicht 
 
 ***Fertig*** beendet nur den Auswahldialog ohne Dateien zu markieren.
 
-Das war es dann auch schon. Die Dateien werden übertragen und der Kurzbefehl ist fertig.
+---
+
+#### Das war es dann auch schon. Die Dateien werden übertragen und der Kurzbefehl ist fertig.
 
 ---
 #### Fehlermeldung bei nicht heruntergeladenen Dateien
