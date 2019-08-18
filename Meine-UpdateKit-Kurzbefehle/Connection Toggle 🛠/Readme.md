@@ -21,7 +21,7 @@ Dann bist du hier richtig. Der Kurzbefehl macht genau das.
 Da für dieses Gerät bisher keine Daten gespeichert sind werden die gewünschten Soll-Zustände abgefragt und gespeichert.
 Diese Standardwerte kannst du jederzeit abfragen, also anzeigen lassen und später mit einem "Klick" wiederherstellen.
 
-![Screenshot1](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Screenshot_Connection_Toggle1.png?resize=200) ![Screenshot2](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Connection%20Toggle%20🛠/Screenshot_Connection_Toggle2.png?resize=200)
+![Screenshot1](Screenshot_Connection_Toggle1.png?resize=200) ![Screenshot2](Screenshot_Connection_Toggle2.png?resize=200)
 
 ### Hauptfunktion des Kurzbefehles
 
