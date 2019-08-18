@@ -8,6 +8,8 @@ Eintrag für Push to Mac SSH
 
 Link für Update URL:
 
-
+https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Push%20Files%20to%20Mac%20SSH/Update.json
 
 Link für Release Notes:
+
+https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Push%20Files%20to%20Mac%20SSH/Release%20Notes.txt

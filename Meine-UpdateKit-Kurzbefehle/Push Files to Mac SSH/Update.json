@@ -1,7 +1,7 @@
 {
 	"Name": "Push Files to Mac SSH",
-	"Version": "1.0",
-	"URL": "https://www.icloud.com/shortcuts/0b5d3758204e4e948ddbe43a59ef1efb",
-	"Notes": "Erste Veröffentlichung",
-	"Release": "18.08.2019"
+	"Version": "1.0.1",
+	"URL": "https://www.icloud.com/shortcuts/e637a063aec54fbba39f4cf9c4c07c7b",
+	"Notes": "Erste Veröffentlichung mit UpdateKit",
+	"Release": "19.08.2019"
 }

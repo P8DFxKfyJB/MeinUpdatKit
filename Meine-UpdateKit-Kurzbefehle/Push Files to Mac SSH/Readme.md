@@ -35,7 +35,9 @@ Dies ist der **Host**, diese Information benötigst du später im Kurzbefehl.
 
 Der Benutzer entspricht dem Namen deines Home-Verzeichnis im Finder. Zur Sicherheit kannst du das hier überprüfen.
 
-`ssh jens@192.168.0.118` ist der gesamte Befehl für eine Eingabe im Terminal um eine SSH-Verbindung zu diesem Mac zu öffnen. Daraus benötigst du nur den Namen. in diesem Beispiel ist das `jens`
+`ssh jens@192.168.0.118` ist der gesamte Befehl für eine Eingabe im Terminal um eine SSH-Verbindung zu diesem Mac zu öffnen.
+
+Daraus benötigst du nur den Namen. in diesem Beispiel ist das `jens`
 
 Dies ist der **Benutzer**, diese Information benötigst du später im Kurzbefehl.
 
@@ -99,7 +101,9 @@ Das siehst Du im Normalfall nie wieder. Außer du löscht die Login-Daten. Wie d
 ---
 #### Was passiert mit meinen eingegebenen Daten?
 
-Diese eingegebenen Daten werden in einer JSON-Datei in deinem iCloud Drive gespeichert. Diese Datei ist versteckt und mit den normalen Dateien-App auf den iDevice nicht einsehbar. Am Mac kannst du die Datei sehen, wenn du versteckte Dateien im Finder anzeigen lässt. ``Shift + cmd + .`` (Punkt) lassen die versteckten Dateien im Finder anzeigen. Diese Tastenkombination schaltet die Anzeige der versteckten Dateien auch wieder aus.
+Diese eingegebenen Daten werden in einer JSON-Datei in deinem iCloud Drive gespeichert. Diese Datei ist versteckt und mit den normalen Dateien-App auf den iDevice nicht einsehbar.
+
+Am Mac kannst du die Datei sehen, wenn du versteckte Dateien im Finder anzeigen lässt. ``Shift + cmd + .`` (Punkt) lassen die versteckten Dateien im Finder anzeigen. Diese Tastenkombination schaltet die Anzeige der versteckten Dateien auch wieder aus.
 
 *Die Datei hat den folgenden Pfad:*
 
