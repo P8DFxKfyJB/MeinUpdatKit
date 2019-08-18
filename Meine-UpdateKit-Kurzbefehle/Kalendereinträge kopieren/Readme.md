@@ -27,12 +27,12 @@ Dort haben wir auch einen [Foren-Bereich](https://www.apfeltalk.de/community/thr
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
-![QR-Code](?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
+![QR-Code](images/Bild.png?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl]()
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/b89771c5b1b743aa936adad01a391fb5)
 
 ### Kontakt für Hilfe und Fragen
 
-[Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md)
+[Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md#kontakt-und-support)

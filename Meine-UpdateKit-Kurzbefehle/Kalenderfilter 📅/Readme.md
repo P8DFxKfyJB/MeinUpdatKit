@@ -18,7 +18,7 @@ Du kannst aus dem folgenden Menü wählen:
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
-![QR-Code](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Kalenderfilter%20📅/Bild.png?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
+![QR-Code](images/Bild.png?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
@@ -26,4 +26,4 @@ Klassischer Download-Link im **Safari** deines iDevices.
 
 ### Kontakt für Hilfe und Fragen
 
-[Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md)
+[Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md#kontakt-und-support)

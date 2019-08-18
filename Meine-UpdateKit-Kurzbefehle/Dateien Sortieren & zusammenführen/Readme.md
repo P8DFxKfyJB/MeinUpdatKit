@@ -20,4 +20,4 @@ Klassischer Download-Link im **Safari** deines iDevices.
 
 ### Kontakt für Hilfe und Fragen
 
-[Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md)
+[Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md#kontakt-und-support)
