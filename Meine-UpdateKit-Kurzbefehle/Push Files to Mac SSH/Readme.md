@@ -17,7 +17,7 @@ Richtig, Airdrop bietet genau diese Funktion, aber mancher Mac ist schlicht zu a
 
 ![](images/Systemeinstellungen.png)
 
-*Öffne Freigaben*
+*Einstellungen Freigaben*
 
 ![](images/SSH-Zugang.png)
 
