@@ -1,7 +1,13 @@
 # Meine UpdateKit-Kurzbefehle
 
-Hier findesst du alle meine veröffentlichten Kurzbefehle. Ab August 2019 unterstützt jeder Kurzbefehl UpdateKit.
+Hier findest du alle meine veröffentlichten Kurzbefehle. Ab August 2019 unterstützt jeder Kurzbefehl UpdateKit.
 
+---
+### Übersicht meiner bisher hier veröffentlichten Kurzbefehlen
+
+[Link zu Meine UpdateKit-Kurzbefehle](https://github.com/P8DFxKfyJB/MeinUpdatKit/tree/master/Meine-UpdateKit-Kurzbefehle#meine-updatekit-kurzbefehle)
+
+---
 ## Grundlegende Infos zu UpdateKit
 
 ### Was ist UpdateKit?
@@ -12,6 +18,7 @@ UpdateKit überprüft alle unterstützten Kurzbefehle auf eventuell vorliegende 
 
 [Vollständige Dokumentation](https://www.mikebeas.com/updatekit/docs/)
 
+---
 ### Ablauf des Ganzen
 
 Die Funktion **UpdateKit** wird am Ende eines Kurzbefehles aufgerufen. Das vermeidet eine Unterbrechung der Benutzererfahrung während der Verwendung eines Kurzbefehles.
@@ -25,16 +32,7 @@ Liegt ein Update vor, erhältst du ein Hinweis darauf und hast folgende Auswahl:
 + Ignoriere dieses Update dauerhaft
 + Später erinnern / Du wirst bei der nächsten Überprüfung erneut erinnert.
 
-###  Erster Einsatzzweck
-
-initiale Entwicklung
-
-### Umstellung auf UpdateKit
-
-Erneute Umstellung auf UpdateKit. UpdateHub produziert unerklärliche Fehlermeldungen.
-
-Also alles auf Anfang und alles umbenennen auf UpdateKit.
-
+---
 ## Kontakt und Support
 
 ### Telegram Kanal für Updates zu meinen Kurzbefehlen

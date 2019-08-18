@@ -15,6 +15,7 @@ Kalendereinträge kopieren  |  Einträge aus einem Kalender in einen anderen kop
 Kalenderfilter 📅 | Zeigt dir Kalendereibtröge verschiedener Zeiträume an | [Zum Repo](Kalenderfilter%20📅)
 Kurzbefehl 1 für UpdateKit | Mein erster Kurzbefehl mit UpdateKit-Integration | [Zum Repo](Kurzbefehl%201%20für%20UpdateKit)
 Meine-UpdateKit-Integration | Meine Vorlage für jeden neuen Kurzbefehl, der auch UpdateKit verwenden soll | [Zum Repo](Meine-UpdateKit-Integration)  
+Push Files to Mac SSH |  AirDrop für ältere Macs und andere Unix-Systeme |  [Zum Repo](Push%20Files%20to%20Mac%20SSH)
 
 ### Telegram Kanal für Updates zu meinen Kurzbefehlen:
 
