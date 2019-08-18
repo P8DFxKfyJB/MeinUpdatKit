@@ -1,6 +1,6 @@
 ### Push to Mac SSH
 
-Push to Mac SSH ist ein Kurzbefehl mit dem du Dateien und Fotos von deinem iDevice auf (d)einen Mac oder sonstigen Computer mit SSH-Zugang übertragen kannst. Dazu benötigst du einen aktivierten SSH-Zugang auf dem Zielrechner.
+**Push to Mac SSH** ist ein Kurzbefehl mit dem du Dateien und Fotos von deinem iDevice (iPhone, iPad, iPod) auf (d)einen Mac oder sonstigen Computer mit SSH-Zugang übertragen kannst. Dazu benötigst du einen aktivierten SSH-Zugang auf dem Zielrechner.
 
 ---
 ## Vorbereitung auf dem Mac
@@ -157,3 +157,10 @@ Wenn Du mehrere Dateien übertragen möchtest, die nicht heruntergeladen wurden,
 ![](images/iCloud-file.png)
 
 Eine einzelne Datei hingegen wird bei der Auswahl heruntergeladen und übernommen.
+
+---
+#### Geplante noch nicht realisierte Funtionen
+
+- Speichern mehrerer Verbindungen
+- Auswahl-Menü für verschiedene Zielordner
+- UpdateKit-Integration
