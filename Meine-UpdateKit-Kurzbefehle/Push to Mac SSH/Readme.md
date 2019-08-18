@@ -159,7 +159,7 @@ Wenn Du mehrere Dateien übertragen möchtest, die nicht heruntergeladen wurden,
 Eine einzelne Datei hingegen wird bei der Auswahl heruntergeladen und übernommen.
 
 ---
-#### Geplante noch nicht realisierte Funtionen
+#### Geplante noch nicht realisierte Funktionen
 
 - Speichern mehrerer Verbindungen
 - Auswahl-Menü für verschiedene Zielordner
