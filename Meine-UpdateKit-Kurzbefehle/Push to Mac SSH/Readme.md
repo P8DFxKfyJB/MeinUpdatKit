@@ -108,3 +108,24 @@ Standard ist `~/Desktop/Ordner` wobei "Ordner" den Namen des Gerätemodell enth�
 Als nächstes erschein das Menü:
 
 ![](images/Menü.png)
+
+### 1. Fotos übertragen und lokal löschen
+
+Du kannst Fotos nach verschiedenen Kriterien suchen lassen. Wenn di diesen menüpunkt auswählst werden Fotos nicht den festgelegten filtern gesucht.
+
+![](images/Fotofilter.png)
+
+Hier kannst du dich nach Belieben austoben.
+
++ Anschliessend werden die gefundenen Fotos in einer kleinen Vorschau zur Auswahl dargestellt.
++ Du kannst einzelne Fotos abwählen.
++ Dann werden die markierten Fotos auf den Zielrechner übertragen
++ Danach werden die Fotos lokal gelöscht
++ Dabei erhältst Du wiederum eine Übersicht der zu löschenden Fotos und kannst einzelne abwählen, die nicht gelöscht werden sollen.
++ Das Löschen musst du bestätigen, dieser Schritt lässt sich nicht überspringen.
+
+### 2. Dateien vom iPhone übertragen
+
+Das Übertragen von Dateien aller Art verhält sich quasi analog.
++ Du bekommst eine Auswahlansicht der Dateien-App und kannst eine oder mehrere Dateien auswählen.
++ Diese werden dann in das festgelegte Verzeichnis übertragen.
