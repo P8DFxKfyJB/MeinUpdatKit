@@ -58,7 +58,7 @@ Das liegt einfach an dem Umstand, das das Gerät Rechenleistung für die grafisc
 ---
 #### Also: Öffne den Kurzbefehl indem du auf diesen großen Button drückst.
 
-![](images/Gallerie.png)
+![](images/Bibliothek.png)
 
 #### Einmalig die Daten für den Login per SSH eingeben
 
