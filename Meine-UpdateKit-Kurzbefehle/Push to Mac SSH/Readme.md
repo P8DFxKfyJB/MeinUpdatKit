@@ -1,7 +1,8 @@
 ### Push to Mac SSH
 
-Push to Mac SSH ist ein Kurzbefehl mit dem du Dateien und Fotos von deinem iDevice auf (d)einen Mac oder sonstigen Computer mit SSH-Zugang übertragen kannst.
+Push to Mac SSH ist ein Kurzbefehl mit dem du Dateien und Fotos von deinem iDevice auf (d)einen Mac oder sonstigen Computer mit SSH-Zugang übertragen kannst. Dazu benötigst du einen aktivierten SSH-Zugang auf dem Zielrechner.
 
+---
 ## Vorbereitung auf dem Mac
 
 ### Die entfernte Anmeldung aktivieren
@@ -39,6 +40,7 @@ Wenn Du Standard-Benutzer auf dem Mac bist, aktiviere "Alle Benutzer", oder füg
 
 Schliesse die Systemeinstellungen. An dieser Stelle bist du auf dem Mac fertig.
 
+---
 ## Weiter gehts auf dem iDevice
 
 Du hast den Kurzbefehl heruntergeladen und in die App "Kurzbefehle" importiert.
@@ -53,6 +55,7 @@ Das verlangsamt allerdings das Ganze besonders bei sehr umfangreichen Kurzbefehl
 
 Das liegt einfach an dem Umstand, das das Gerät Rechenleistung für die grafische Darstellung des Ablaufes benötigt und diese dann bei der Ausführung des Kurzbefehls fehlt. Das bemerkt man gerade auf älteren Geräten bist einschliesslich dem iPhone 6s.
 
+---
 #### Also: Öffne den Kurzbefehl indem du auf diesen großen Button drückst.
 
 ![](images/Gallerie.png)
@@ -80,8 +83,8 @@ Beim ersten Start wirst du nach den Login-Daten für den Mac/anderen Rechner gef
 ![](images/Passwort.png)
 
 #### Das war die Ersteinrichtung
-
-#### Was passiert mit meinen Daten?
+---
+#### Was passiert mit meinen eingegebenen Daten?
 
 Diese eingegebenen Daten werden in einer JSON-Datei in deinem iCloud Drive gespeichert. Diese Datei ist versteckt und mit de normalen Dateien-App auf den iDevice nicht einsehbar. Am Mac kannst du die Datei sehen, wenn du versteckte Dateien im Finder anzeigen lässt. ``Shift + cmd + .`` (Punkt) lassen die versteckten Dateien im Finder anzeigen. Diese Tastenkombination schaltet die Anzeige der versteckten Dateien auch wieder aus.
 
@@ -99,6 +102,7 @@ Das ist einfacher als gedacht. Du öffnest die App "Dateien" navigierst zum Ordn
 
 Dadurch werden auch alle darin befindlichen Dateien vom Gerät entfernt.
 
+---
 #### Die eigentliche Benutzung des Kurzbefehles
 
 Wenn die Login-Daten korrekt sind wird das Verzeichnis "Hauptordner" und "Unterordner" aus den Einstellungen des Kurzbefehles ausgelesen und die Ordner werden per SSH auf dem Ziel-Rechner erstellt.
@@ -109,6 +113,7 @@ Als nächstes erschein das Menü:
 
 ![](images/Menü.png)
 
+---
 ### 1. Fotos übertragen und lokal löschen
 
 Du kannst Fotos nach verschiedenen Kriterien suchen lassen. Wenn di diesen menüpunkt auswählst werden Fotos nicht den festgelegten filtern gesucht.
@@ -123,9 +128,32 @@ Hier kannst du dich nach Belieben austoben.
 + Danach werden die Fotos lokal gelöscht
 + Dabei erhältst Du wiederum eine Übersicht der zu löschenden Fotos und kannst einzelne abwählen, die nicht gelöscht werden sollen.
 + Das Löschen musst du bestätigen, dieser Schritt lässt sich nicht überspringen.
-
+---
 ### 2. Dateien vom iPhone übertragen
 
-Das Übertragen von Dateien aller Art verhält sich quasi analog.
+#### Auswahl der Dateien
+
+Das Übertragen von Dateien aller Art verhält sich quasi analog, ist nur nicht so umfangreich.
 + Du bekommst eine Auswahlansicht der Dateien-App und kannst eine oder mehrere Dateien auswählen.
 + Diese werden dann in das festgelegte Verzeichnis übertragen.
+
+![](images/Dateien.png)
+
++ Eine einzelne Datei wählst du einfaach durch antippen aus.
++ Mehrere Dateien:
+  - Wähle "Auswählen"
+  - Markiere die gewünschten Dateien
+  - **Öffne** die Dateien
+
+***Fertig*** beendet nur den Auswahldialog ohne Dateien zu markieren.
+
+Das war es dann auch schon. Die Dateien werden übertragen und der Kurzbefehl ist fertig.
+
+---
+#### Fehlermeldung bei nicht heruntergeladenen Dateien
+
+Wenn Du mehrere Dateien übertragen möchtest, die nicht heruntergeladen wurden, sondern nur in der iCloud liegen erhältst Du eine Fehlermeldung:
+
+![](images/iCloud-file.png)
+
+Eine einzelne Datei hingegen wird bei der Auswahl heruntergeladen und übernommen.
