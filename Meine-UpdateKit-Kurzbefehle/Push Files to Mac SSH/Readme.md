@@ -130,7 +130,7 @@ Als nächstes erschein das Menü:
 ---
 ### 1. Fotos übertragen und lokal löschen
 
-Du kannst Fotos nach verschiedenen Kriterien suchen lassen. Wenn di diesen menüpunkt auswählst werden Fotos nicht den festgelegten filtern gesucht.
+Du kannst Fotos nach verschiedenen Kriterien suchen lassen. Wenn du diesen Menüpunkt auswählst werden Fotos nach den festgelegten Filtern gesucht.
 
 ![](images/Fotofilter.png)
 
@@ -153,7 +153,7 @@ Das Übertragen von Dateien aller Art verhält sich quasi analog, ist nur nicht 
 
 ![](images/Dateien.png)
 
-+ Eine einzelne Datei wählst du einfaach durch antippen aus.
++ Eine einzelne Datei wählst du einfach durch antippen aus.
 + Mehrere Dateien:
   - Wähle "Auswählen"
   - Markiere die gewünschten Dateien
