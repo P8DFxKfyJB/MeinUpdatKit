@@ -183,7 +183,6 @@ Eine einzelne Datei hingegen wird bei der Auswahl heruntergeladen und übernomme
 
 - Speichern mehrerer Verbindungen
 - Auswahl-Menü für verschiedene Zielordner
-- UpdateKit-Integration
 
 ### Download
 
