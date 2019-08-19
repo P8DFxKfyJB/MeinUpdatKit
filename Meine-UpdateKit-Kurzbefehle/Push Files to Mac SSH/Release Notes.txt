@@ -3,5 +3,4 @@ Version 1.0
 
 Version 1.0.1
 - Leerzeichen aus "Nach Eingabe fragen" entfernen
-- Zielordner: Abfrage in den Ablauf eingebaut, Anzeige des aktuellen Zielordners
 - UpdateKit Integration
