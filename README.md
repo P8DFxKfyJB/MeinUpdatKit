@@ -26,9 +26,13 @@ Möchtest Du UpdateKit nicht benutzen, setze UpdateKit auf 0 (Null). Dadurch wir
 
 Um trotzdem über vorhandene Updates informiert zu bleiben kannst du den Telegram-Kanal zu meinen Kurzbefehlen abonnieren. Den Link dazu findest du weiter unten auf dieser Seite.
 
-Den Link zum Kurzbefehl "UpdateKit" findest du hier: [UpdateKit For Apple Shortcuts, by Mike Beasley](https://www.mikebeas.com/updatekit/)
+Den Link zum Kurzbefehl "UpdateKit" findest du hier:
 
-Es gibt auch eine Dokumentation dazu: [Vollständige Dokumentation](https://www.mikebeas.com/updatekit/docs/)
+[UpdateKit For Apple Shortcuts, by Mike Beasley](https://www.mikebeas.com/updatekit/)
+
+Es gibt auch eine Dokumentation dazu:
+
+[Vollständige Dokumentation](https://www.mikebeas.com/updatekit/docs/)
 
 ---
 ### Ablauf des Ganzen
