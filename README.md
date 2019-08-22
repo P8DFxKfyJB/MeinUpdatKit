@@ -14,7 +14,7 @@ Hier findest du alle meine veröffentlichten Kurzbefehle. Ab August 2019 unterst
 
 UpdateKit überprüft alle unterstützten Kurzbefehle auf eventuell vorliegende Aktualisierungen ohne Zutun des Benutzers.
 
-Installiere UpdateKit und starte den Kurzbefehl. Dabei wird das Sprach-Setup durchgeführt und der Kurzbefehl ist einsatzbereit.
+Installiere UpdateKit (Link steht weiter unten) und starte den Kurzbefehl. Dabei wird das Sprach-Setup durchgeführt, UpdateKit ist mehrsprachig, und der Kurzbefehl ist einsatzbereit.
 
 Setze in meinen Kurzbefehlen in den Einstellungen jedes Kurzbefehles "UpdateKit" auf  "Wahr" und das "Update-Intervall" setzt du je nach Belieben auf einen Wert deiner Wahl, Standard ist 7 für 7 Tage. Setze den Wert auf 0 (Null) und bei jedem Durchlauf wird UpdateKit auf ein vorliegendes Update prüfen.
 
@@ -24,13 +24,11 @@ Das bietet sich besonders in der Entwicklungsphase eines Kurzbefehls an, wenn es
 
 Möchtest Du UpdateKit nicht benutzen, setze UpdateKit auf 0 (Null). Dadurch wird der entsprechende Abschnitt im Kurzbefehl ignoriert.
 
-Um trotzdem über vorhandene Updates informiert zu bleiben kannst du den Telegram-Kanal zu meinen Kurzbefehlen abonnieren. den Link dazu findest du weiter unten auf dieser Seite.
+Um trotzdem über vorhandene Updates informiert zu bleiben kannst du den Telegram-Kanal zu meinen Kurzbefehlen abonnieren. Den Link dazu findest du weiter unten auf dieser Seite.
 
-Die Link zum Kurzbefehl "UpdateKit" findest du hier:
+Den Link zum Kurzbefehl "UpdateKit" findest du hier: [UpdateKit For Apple Shortcuts, by Mike Beasley](https://www.mikebeas.com/updatekit/)
 
-[UpdateKit For Apple Shortcuts, by Mike Beasley](https://www.mikebeas.com/updatekit/)
-
-[Vollständige Dokumentation](https://www.mikebeas.com/updatekit/docs/)
+Es gibt auch eine Dokumentation dazu: [Vollständige Dokumentation](https://www.mikebeas.com/updatekit/docs/)
 
 ---
 ### Ablauf des Ganzen
