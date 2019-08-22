@@ -2,6 +2,10 @@
 
 Mit diesem Kurzbefehl kannst du Termine aus einem Kalender in einen anderen kopieren.
 
+Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf [apfeltalk.de](https://www.apfeltalk.de).
+Dort haben wir auch einen [Foren-Bereich](https://www.apfeltalk.de/community/threads/apple-kurzbefehle-hilfe-anleitungen-kfka.533890/) für Shortcuts/Kurzbefehle, schau einfach mal vorbei.
+
+---
 ###  Übersicht und Kurzbeschreibung:
 
 Du bekommst regelmäßig Termine in einen Kalender gepusht und möchtest diese lieber in deinem eigenen Kalender kopieren?
@@ -14,15 +18,12 @@ Dann bist du hier richtig. Der Kurzbefehl importiert Termine aus einem Kalender 
 + Beim ersten Durchlauf kannst Du eine Anzahl an zurückliegenden Monaten angeben, die ebenfalls importiert werden sollen.
 + Falls du den Kurzbefehl wiederholt innerhalb eines Monats startest, wird der Import von Duplikaten unterbunden
 
+---
 #### Geplante Funktionen und Änderungen
 
 + Terminänderungen an bereits importieren Terminen berücksichtigen
 
-
-Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf [apfeltalk.de](https://www.apfeltalk.de)
-
-Dort haben wir auch einen [Foren-Bereich](https://www.apfeltalk.de/community/threads/apple-kurzbefehle-hilfe-anleitungen-kfka.533890/) für Shortcuts/Kurzbefehle, schau einfach mal vorbei.
-
+---
 ### Download
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
@@ -33,6 +34,7 @@ Klassischer Download-Link im **Safari** deines iDevices.
 
 [Link zum Kurzbefehl](https://www.icloud.com/shortcuts/b89771c5b1b743aa936adad01a391fb5)
 
+---
 ### Kontakt für Hilfe und Fragen
 
 [Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md#kontakt-und-support)

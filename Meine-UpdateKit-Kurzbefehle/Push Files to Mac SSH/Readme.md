@@ -1,7 +1,6 @@
 ### Push Files to Mac SSH
 
 ---
-
 **Push Files to Mac SSH** ist ein Kurzbefehl mit dem du Dateien und Fotos von deinem iDevice (iPhone, iPad, iPod) auf (d)einen Mac oder sonstigen Computer mit SSH-Zugang übertragen kannst. Dazu benötigst du einen aktivierten SSH-Zugang auf dem Zielrechner.
 
 **Du fragst dich eventuell jetzt: Warum nicht einfach per Airdrop?**
@@ -94,7 +93,6 @@ Beim ersten Start wirst du nach den Login-Daten für den Mac/anderen Rechner gef
 ![](images/Passwort.png)
 
 ---
-
 #### Das war die Ersteinrichtung
 Das siehst Du im Normalfall nie wieder. Außer du löscht die Login-Daten. Wie das funktioniert erfährst Du weiter unten.
 
@@ -166,7 +164,6 @@ Das Übertragen von Dateien aller Art verhält sich quasi analog, ist nur nicht 
 ***Fertig*** beendet nur den Auswahldialog ohne Dateien zu markieren.
 
 ---
-
 #### Das war es dann auch schon. Die Dateien werden übertragen und der Kurzbefehl ist fertig.
 
 ---
@@ -185,6 +182,7 @@ Eine einzelne Datei hingegen wird bei der Auswahl heruntergeladen und übernomme
 - Auswahl-Menü für verschiedene Zielordner
 - Zielordner: Abfrage in den Ablauf eingebaut, Anzeige des aktuellen Zielordners
 
+---
 ### Download
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
@@ -195,6 +193,7 @@ Klassischer Download-Link im **Safari** deines iDevices.
 
 [Link zum Kurzbefehl](https://www.icloud.com/shortcuts/e637a063aec54fbba39f4cf9c4c07c7b)
 
+---
 ### Kontakt für Hilfe und Fragen
 
 [Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md#kontakt-und-support)

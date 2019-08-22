@@ -2,6 +2,7 @@
 
 Du gibst eine Zahl ein und erhältst den entsprechenden Bereich angezeigt.
 
+---
 ###  Übersicht und Kurzbeschreibung:
 
 Der Kurzbefehl gleicht eine eingabe mit einem festgelegten Zahlenbereich ab.
@@ -15,6 +16,7 @@ Größer 100 wird als Fehlermeldungen ausgegeben.
 
 Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage aus einem Forum
 
+---
 ### Download
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
@@ -25,6 +27,7 @@ Klassischer Download-Link im **Safari** deines iDevices.
 
 [Link zum Kurzbefehl]()
 
+---
 ### Kontakt für Hilfe und Fragen
 
 [Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md#kontakt-und-support)

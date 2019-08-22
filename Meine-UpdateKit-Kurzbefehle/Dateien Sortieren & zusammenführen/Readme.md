@@ -1,12 +1,15 @@
 # Dateien Sortieren & zusammenführen
 
 
+Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf [apfeltalk.de](https://www.apfeltalk.de).
+Dort haben wir auch einen [Foren-Bereich](https://www.apfeltalk.de/community/threads/) für Shortcuts/Kurzbefehle, schau einfach mal vorbei.
 
+---
 ###  Übersicht und Kurzbeschreibung:
 
 Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf [apfeltalk.de](https://www.apfeltalk.de)
 
-
+---
 ### Download
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
@@ -17,7 +20,7 @@ Klassischer Download-Link im **Safari** deines iDevices.
 
 [Link zum Kurzbefehl]()
 
-
+---
 ### Kontakt für Hilfe und Fragen
 
 [Gehe zur Hauptseite](https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/README.md#kontakt-und-support)
