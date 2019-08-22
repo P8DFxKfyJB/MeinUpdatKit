@@ -1,1 +1,11 @@
-Erste Update mit UpdateKit, verschiedenste Änderungen
+Version 1.0
+- Erste Veröffentlichung
+
+Version 1.1.1
+- Leerzeichen aus "Nach Eingabe fragen" entfernen
+- UpdateKit Integration
+
+Version 1.1.2
+- erste vollständig funktionierende Version
+- Liste und Anzeige der neuen Termine funktioniert wie erwartet
+- Liste-Beenden-Button eingebaut
