@@ -13,7 +13,7 @@ Dann bist du hier richtig. Der Kurzbefehl macht genau das.
   - WLAN
   - Bluetooth
   - Mobile Daten
-  - Stromsparm odus
+  - Stromsparmodus
   - Medien-Lautstärke
   - Display-Helligkeit
 + Anschließend startest du den Kurzbefehl
@@ -31,7 +31,13 @@ Also, wenn es mal schnell gehen muss, oder auch generell, wenn Du das Gerät ein
 
 ### Grund für diesen Kurzbefehl
 
-… war ein Low Power Mode Kurzbefehl, gefunden auf [RoutineHub](https://routinehub.co/), [ULTRA Low Power Mode](https://routinehub.co/shortcut/1887) Dieser hat mich zu meiner Extended-Version inspiriert.
+… war ein Low Power Mode Kurzbefehl, gefunden auf [RoutineHub](https://routinehub.co/), [ULTRA Low Power Mode](https://routinehub.co/shortcut/1887). Dieser hat mich zu meiner Extended-Version inspiriert. Oder sagt man heute lieber "geforkt"? :-) Ja, ich denke im Zeitalter von Blockchain und GitHub fork´t man etwas.
+
+#### Geplante Funktionen und Änderungen
+
++ Änderung des Namens, irgendwann benenne ich die Kurzbefehl (wieder) in "Settings Toggle" um
++ Importfunktion der Einstellungen von "Connection Toggle" zu "Settings Toggle"
+
 
 ### Download
 

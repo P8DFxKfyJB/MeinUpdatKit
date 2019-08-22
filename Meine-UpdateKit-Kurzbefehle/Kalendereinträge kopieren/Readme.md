@@ -14,7 +14,7 @@ Dann bist du hier richtig. Der Kurzbefehl importiert Termine aus einem Kalender 
 + Beim ersten Durchlauf kannst Du eine Anzahl an zurückliegenden Monaten angeben, die ebenfalls importiert werden sollen.
 + Falls du den Kurzbefehl wiederholt innerhalb eines Monats startest, wird der Import von Duplikaten unterbunden
 
-#### Geplante Funktionen
+#### Geplante Funktionen und Änderungen
 
 + Terminänderungen an bereits importieren Terminen berücksichtigen
 
