@@ -16,9 +16,15 @@ UpdateKit überprüft alle unterstützten Kurzbefehle auf eventuell vorliegende 
 
 Installiere UpdateKit und starte den Kurzbefehl. Dabei wird das Sprach-Setup durchgeführt und der Kurzbefehl ist einsatzbereit.
 
-Setze in meinen Kurzbefehlen in den Einstellungen jedes Kurzbefehles "UpdateKit" auf  "Wahr" und das "Update-Intervall" je nach Belieben, Standard ist 7 für 7 Tage. Setze den Wert auf 0 (Null) und bei jedem Durchlauf wird UpdateKit auf ein vorliegendes Update prüfen. Das bietet sich besonders in der Entwicklungsphase eines Kurzbefehls an, wenn es mehrere Änderungen an einem Tag gibt.
+Setze in meinen Kurzbefehlen in den Einstellungen jedes Kurzbefehles "UpdateKit" auf  "Wahr" und das "Update-Intervall" setzt du je nach Belieben auf einen Wert deiner Wahl, Standard ist 7 für 7 Tage. Setze den Wert auf 0 (Null) und bei jedem Durchlauf wird UpdateKit auf ein vorliegendes Update prüfen.
 
-![UpdateKit Setup](images/UpdateKit_1.png)
+Das bietet sich besonders in der Entwicklungsphase eines Kurzbefehls an, wenn es mehrere Änderungen an einem Tag gibt.
+
+![UpdateKit Setup](images/UpdateKit-Setup.png)
+
+Möchtest Du UpdateKit nicht benutzen, setze UpdateKit auf 0 (Null). Dadurch wird der entsprechende Abschnitt im Kurzbefehl ignoriert.
+
+Um trotzdem über vorhandene Updates informiert zu bleiben kannst du den Telegram-Kanal zu meinen Kurzbefehlen abonnieren. den Link dazu findest du weiter unten auf dieser Seite.
 
 Die Link zum Kurzbefehl "UpdateKit" findest du hier:
 
