@@ -1,13 +1,23 @@
-Zweite VÖ
-Datum: 22.08.2019
+Versionsübersicht
+
+Version 1.0.3
+
+Datum: 24.08.2019
+
++ Du kannst deine Standardwerte jetzt über einen weiteren Menü-Punkt einzeln für jedes Gerät erneut festlegen.
++ kleinere Veränderungen zur allgemeinen Verbesserung im Ablauf.
++ Ein- und Ausschalten des LPM werden innerhalb der App Kurzbefehle durchgeführt (auf meinen Testgeräten gab es ohne diese Funktion in bestimmten Situationen Fehlermeldungen)
+
 
 Version 1.0.2
 
+Datum: 22.08.2019
+
 + UpdateKit wird nicht angestoßen, wenn du den LPM aktiviert hast. Das Gerät ist ja ab dem Moment offline.
 
-Erstes VÖ
-Datum: 17.08.2019
 
 Version 1.0.1
+
+Datum: 17.08.2019
 
 + Initial release
