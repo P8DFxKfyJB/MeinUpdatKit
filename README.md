@@ -9,20 +9,27 @@ Hier findest du alle meine veröffentlichten Kurzbefehle. Ab August 2019 unterst
 
 ---
 ## Grundlegende Infos zu UpdateKit
-
+---
 ### Was ist UpdateKit?
 
 UpdateKit überprüft alle unterstützten Kurzbefehle auf eventuell vorliegende Aktualisierungen ohne Zutun des Benutzers.
 
 Installiere UpdateKit (Link steht weiter unten) und starte den Kurzbefehl. Dabei wird das Sprach-Setup durchgeführt, UpdateKit ist mehrsprachig, und der Kurzbefehl ist einsatzbereit.
 
-Setze in meinen Kurzbefehlen in den Einstellungen jedes Kurzbefehles "UpdateKit" auf  "Wahr" und das "Update-Intervall" setzt du je nach Belieben auf einen Wert deiner Wahl, Standard ist 7 für 7 Tage. Setze den Wert auf 0 (Null) und bei jedem Durchlauf wird UpdateKit auf ein vorliegendes Update prüfen.
+Setze in meinen Kurzbefehlen in den Einstellungen jedes Kurzbefehles "UpdateKit" auf  "1" und das "Update-Intervall" setzt du je nach Belieben auf einen Wert deiner Wahl.
+- Standard ist 7 für 7 Tage. Dieser Wert ist voreingestellt.
+- Setze den Wert auf 0 (Null) und UpdateKit wird  bei jedem Durchlauf auf ein vorliegendes Update prüfen.
 
-Das bietet sich besonders in der Entwicklungsphase eines Kurzbefehls an, wenn es mehrere Änderungen an einem Tag gibt.
+Mit Update-Intervall = 0 kannst du auch vor Ablauf der eingestellten X Tage auf ein Update prüfen lassen ohne irgendwelche Dateien zu löschen oder in den Untiefen des Kurzbefehles Änderungen vornehmen zu müssen.
+
+*Das bietet sich besonders in der Entwicklungsphase eines Kurzbefehls an, wenn es mehrere Änderungen an einem Tag gibt.*
 
 ![UpdateKit Setup](images/UpdateKit-Setup.png)
 
-Möchtest Du UpdateKit nicht benutzen, setze UpdateKit auf 0 (Null). Dadurch wird der entsprechende Abschnitt im Kurzbefehl ignoriert.
+---
+### Du möchtest Du UpdateKit nicht benutzen?
+
+ Kein Problem, setze UpdateKit auf 0 (Null). Dadurch wird der entsprechende Abschnitt im Kurzbefehl ignoriert.
 
 Um trotzdem über vorhandene Updates informiert zu bleiben kannst du den Telegram-Kanal zu meinen Kurzbefehlen abonnieren. Den Link dazu findest du weiter unten auf dieser Seite.
 
