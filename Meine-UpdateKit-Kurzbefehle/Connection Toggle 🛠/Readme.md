@@ -27,14 +27,14 @@ Diese Standardwerte kannst du jederzeit abfragen, also anzeigen lassen und spät
 ---
 ### Hauptfunktion des Kurzbefehles
 
-Die eigentliche Funktion, der Low Power Mode (LPM), ist natürlich weiterhin enthalten. Di kannst mit einem "Klick" alle Funktionen deaktivieren. Sinn des Ganzen ist, dass die Batterie schneller aufgeladen wird, wenn die Verbraucher deaktiviert sind. **Du bekommst das Gerät wesentlich schneller aufgeladen.**
+ Du kannst mit einem "Klick" alle Funktionen deaktivieren. Sinn des Ganzen ist, dass die Batterie schneller aufgeladen wird, wenn die Verbraucher deaktiviert sind. **Du bekommst das Gerät wesentlich schneller aufgeladen.**
 
-Also, wenn es mal schnell gehen muss, oder auch generell, wenn Du das Gerät einfach mal in den Flugmodus schicken und bei Seite legen willst, den LPM aktivieren und aufladen. Anschließend, wenn du den LPM wieder ausschaltest, werden alle Einstellungen auf deine **Standardwerte** gesetzt.
+Also, wenn es mal schnell gehen muss, oder auch generell, wenn Du das Gerät einfach mal in den Flugmodus schicken und beiseite legen willst, den LPM aktivieren und aufladen. Anschließend, wenn du den LPM wieder ausschaltest, werden alle Einstellungen auf deine **Standardwerte** gesetzt.
 
 ---
 ### Grund für diesen Kurzbefehl
 
-… war ein Low Power Mode Kurzbefehl, gefunden auf [RoutineHub](https://routinehub.co/), [ULTRA Low Power Mode](https://routinehub.co/shortcut/1887). Dieser hat mich zu meiner Extended-Version inspiriert. Oder sagt man heute lieber "geforkt"? :-) Ja, ich denke im Zeitalter von Blockchain und GitHub fork´t man etwas.
+war ein Low Power Mode Kurzbefehl, gefunden auf [RoutineHub](https://routinehub.co/), [ULTRA Low Power Mode](https://routinehub.co/shortcut/1887). Dieser hat mich zu meiner "Extended-Version" inspiriert. Oder verwendet man heute lieber "geforkt"? :-) Ja, ich denke im Zeitalter von Blockchain und GitHub fork´t man etwas.
 
 ---
 #### Geplante Funktionen und Änderungen
