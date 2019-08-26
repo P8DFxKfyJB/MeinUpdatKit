@@ -3,7 +3,6 @@
 Wähle mehrere Dateien aus und führe diese zu einer Datei zusammen.
 Aktuell funktioniert das mit PDF- und Text-Dateien.
 
-
 ---
 ###  Übersicht und Kurzbeschreibung:
 
@@ -11,17 +10,21 @@ Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf [apfeltalk.de](ht
 
 *Ich habe mehrere PDF Dokumente auf meinem iPhone bzw. iPad. Nun möchte ich diese zu einem Dokument zusammenführen. Am besten mit Bordmitteln und ohne eine weitere App installieren zu müssen. Geht das? Wenn ja, wie?*
 
+- Du kannst in der Dateien-App mehrere Dateien eines Dateityps auswählen, die zu einem Dokument zusammengefügt werden sollen.
+- anschließend kannst du den Namen für die neue Datei festlegen
+- Du kannst die Dateien manuell sortieren. Dies geschieht durch die Auswahl der Dateien innerhalb einer Menü-Liste. Als erstes ausgewählt = 1. Datei, als zweites ausgewählt = 2. Datei, usw.
+- Wenn die Dateien zusammengeführt wurden, wirst du nach dem Speicherort für die Datei gefragt.
 
 ---
 ### Download
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
-![QR-Code](images/Bild.png?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
+![Link zum Download per QR-Code](images/Bild.png)
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/5a4d9612f8864745bdd5010787712ce4)
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/f487e76df0f64f7a9caa79423d30c1de)
 
 ---
 ### Kontakt für Hilfe und Fragen
