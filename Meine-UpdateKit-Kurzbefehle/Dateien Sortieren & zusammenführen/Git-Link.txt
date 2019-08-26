@@ -8,6 +8,8 @@ Eintrag für Dateien Sortieren & zusammenführen
 
 Link für Update URL:
 
-  
+  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Dateien%20Sortieren%20%26%20zusammenführen/Update.json
 
 Link für Release Notes:
+
+  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Dateien%20Sortieren%20%26%20zusammenführen/Release%20Notes.txt
