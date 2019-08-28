@@ -18,6 +18,27 @@ Dann bist du hier richtig. Der Kurzbefehl importiert Termine aus einem Kalender 
 + Beim ersten Durchlauf kannst Du eine Anzahl an zurückliegenden Monaten angeben, die ebenfalls importiert werden sollen.
 + Falls du den Kurzbefehl wiederholt innerhalb eines Monats startest, wird der Import von Duplikaten unterbunden
 
+
+---
+### Versionsübersicht
+
+Version 1.1.3
+- Standard-Hinweis (Alarm) bei kopierten Terminen entfernt, das ist noch suboptimal gelöst. Dafür muss ich mir noch etwas einfallen lassen, wenn Termine einen Hinweis (Alarm) haben, dass dieser übernommen wird.
+- Liste und Anzeige der neuen Termine funktioniert jetzt wirklich wie erwartet
+
+Version 1.1.2
+- erste vollständig funktionierende Version
+- Liste und Anzeige der neuen Termine funktioniert wie erwartet
+- Liste-Beenden-Button eingebaut
+
+Version 1.1.1
+- Leerzeichen aus "Nach Eingabe fragen" entfernen
+- UpdateKit Integration
+
+Version 1.0
+- Erste Veröffentlichung
+
+
 ---
 #### Geplante Funktionen und Änderungen
 
