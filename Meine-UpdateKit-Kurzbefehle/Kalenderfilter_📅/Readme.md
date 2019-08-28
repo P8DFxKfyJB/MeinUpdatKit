@@ -17,7 +17,7 @@ Du kannst aus dem folgenden Menü wählen:
 ---
 ### Versionsübersicht
 
-Version 1.0.1
+Version 1.0.1.1
 
 Datum: 28.08.2019
 
@@ -35,7 +35,7 @@ QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/80ab8cbf475040968fca1119905e3ba5)
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/33865a9ffee6476e92d30778f265b2e0)
 
 ---
 ### Kontakt für Hilfe und Fragen
