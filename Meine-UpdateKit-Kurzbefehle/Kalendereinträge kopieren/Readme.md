@@ -32,7 +32,7 @@ QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/b89771c5b1b743aa936adad01a391fb5)
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/2b6999cf6eda446ba4601181576bb3c9)
 
 ---
 ### Kontakt für Hilfe und Fragen
