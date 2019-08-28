@@ -1,6 +1,0 @@
-Version 1.0
-- Erste Veröffentlichung
-
-Version 1.0.1
-- Leerzeichen aus "Nach Eingabe fragen" entfernen
-- UpdateKit Integration

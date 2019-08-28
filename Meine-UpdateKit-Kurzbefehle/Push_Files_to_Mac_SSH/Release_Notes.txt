@@ -1,0 +1,11 @@
+Versionübersicht
+
+Version 1.0.1.1
++ Leerzeichen in allen Dateien und Verzeichnissen entfernt
+
+Version 1.0.1
++ Leerzeichen aus "Nach Eingabe fragen" entfernen
++ UpdateKit Integration
+
+Version 1.0
++ Erste Veröffentlichung

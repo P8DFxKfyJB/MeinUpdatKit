@@ -7,8 +7,8 @@ Eintrag für Kurzbefehl 1 für UpdateKit
 
 Link für Update URL:
 
-https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kurzbefehl%201%20für%20UpdateKit/Update.json
+https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kurzbefehl_1_für_UpdateKit/Update.json
 
 Link für Release Notes:
 
-https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kurzbefehl%201%20für%20UpdateKit/Release%20Notes.txt
+https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kurzbefehl_1_für_UpdateKit/Release_Notes.txt

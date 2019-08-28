@@ -5,12 +5,12 @@ https://routinehub.co/user/gwadro
 
 
 Eintrag für Dateien Sortieren & zusammenführen
-https://github.com/P8DFxKfyJB/MeinUpdatKit/tree/master/Meine-UpdateKit-Kurzbefehle/Dateien%20Sortieren%20%26%20zusammenführen#dateien-sortieren--zusammenführen
+https://github.com/P8DFxKfyJB/MeinUpdatKit/tree/master/Meine-UpdateKit-Kurzbefehle/Dateien_Sortieren_%26_zusammenführen#dateien-sortieren--zusammenführen
 
 Link für Update URL:
 
-  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Dateien%20Sortieren%20%26%20zusammenführen/Update.json
+  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Dateien_Sortieren_%26_zusammenführen/Update.json
 
 Link für Release Notes:
 
-  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Dateien%20Sortieren%20%26%20zusammenführen/Release%20Notes.txt
+  https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Dateien_Sortieren_%26_zusammenführen/Release_Notes.txt

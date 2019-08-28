@@ -8,4 +8,4 @@ Eintrag für UpdateKit-Integration
 
 Link für Update URL:    https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Meine-UpdateKit-Integration/Update.json
 
-Link für Release Notes: https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Meine-UpdateKit-Integration/Release%20Notes.txt
+Link für Release Notes: https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Meine-UpdateKit-Integration/Release_Notes.txt

@@ -8,8 +8,8 @@ Eintrag für Input >=< 100
 
 Link für Update URL:
 
-https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Input%20%3E%3D%3C%20100/Update.json
+https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Input_%3E%3D%3C_100/Update.json
 
 Link für Release Notes:
 
-https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Input%20%3E%3D%3C%20100/Release%20Notes.txt
+https://github.com/P8DFxKfyJB/MeinUpdatKit/blob/master/Meine-UpdateKit-Kurzbefehle/Input_%3E%3D%3C_100/Release_Notes.txt

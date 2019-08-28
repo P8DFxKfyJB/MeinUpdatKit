@@ -16,6 +16,23 @@ Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage auf [apfeltalk.de](ht
 - Wenn die Dateien zusammengeführt wurden, wirst du nach dem Speicherort für die Datei gefragt.
 
 ---
+### Versionsübersicht
+
+Version 1.0.1
+
+Datum: 28.08.2019
+
++ Leerzeichen in allen Dateien und Verzeichnissen entfernt
+
+Version 1.0
+
+Datum: 24.08.2019
+
++ Erste Veröffentlichung mit UpdateKit-Integration
++ Wähle mehrere Dateien aus und führe diese zu einer Datei zusammen.
++ Unterstützt PDF- und TXT-Dateien
+
+---
 ### Download
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
@@ -24,7 +41,7 @@ QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/f487e76df0f64f7a9caa79423d30c1de)
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/af9625442aac4888b30136d445cfca9d)
 
 ---
 ### Kontakt für Hilfe und Fragen

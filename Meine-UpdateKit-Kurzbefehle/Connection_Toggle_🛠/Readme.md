@@ -43,6 +43,37 @@ war ein Low Power Mode Kurzbefehl, gefunden auf [RoutineHub](https://routinehub.
 + Importfunktion der Einstellungen von "Connection Toggle" zu "Settings Toggle"
 
 ---
+### Versionsübersicht
+
+Version 1.0.3.1
+
+Datum: 28.08.2019
+
++ Leerzeichen in allen Dateien und Verzeichnissen entfernt
+
+Version 1.0.3
+
+Datum: 24.08.2019
+
++ Du kannst deine Standardwerte jetzt über einen weiteren Menü-Punkt einzeln für jedes Gerät erneut festlegen.
++ kleinere Veränderungen zur allgemeinen Verbesserung im Ablauf.
++ Ein- und Ausschalten des LPM werden innerhalb der App Kurzbefehle durchgeführt (auf meinen Testgeräten gab es ohne diese Funktion in bestimmten Situationen Fehlermeldungen)
+
+
+Version 1.0.2
+
+Datum: 22.08.2019
+
++ UpdateKit wird nicht angestoßen, wenn du den LPM aktiviert hast. Das Gerät ist ja ab dem Moment offline.
+
+
+Version 1.0.1
+
+Datum: 17.08.2019
+
++ Initial release
+
+---
 ### Download
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
@@ -51,7 +82,7 @@ QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/f0c2cea1625c4bc49384a9326be1cbe1)
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/23e7690eab354b38b33d765337bf954a)
 
 ---
 ### Kontakt für Hilfe und Fragen

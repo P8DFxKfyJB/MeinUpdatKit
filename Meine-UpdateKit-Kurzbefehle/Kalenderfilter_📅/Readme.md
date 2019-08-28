@@ -15,6 +15,18 @@ Du kannst aus dem folgenden Menü wählen:
 + Nächster Monat
 
 ---
+### Versionsübersicht
+
+Version 1.0.1
+
+Datum: 28.08.2019
+
++ Leerzeichen in allen Dateien und Verzeichnissen entfernt
+
+Version 1.0
++ Erste Veröffentlichung mit UpdateKit
+
+---
 ### Download
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
@@ -23,7 +35,7 @@ QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/b67b7610acdb4fdfa00e3014a3b531e8)
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/80ab8cbf475040968fca1119905e3ba5)
 
 ---
 ### Kontakt für Hilfe und Fragen

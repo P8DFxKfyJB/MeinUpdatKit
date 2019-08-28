@@ -22,21 +22,27 @@ Dann bist du hier richtig. Der Kurzbefehl importiert Termine aus einem Kalender 
 ---
 ### Versionsübersicht
 
+Version 1.1.3.1
+
+Datum: 28.08.2019
+
++ Leerzeichen in allen Dateien und Verzeichnissen entfernt
+
 Version 1.1.3
-- Standard-Hinweis (Alarm) bei kopierten Terminen entfernt, das ist noch suboptimal gelöst. Dafür muss ich mir noch etwas einfallen lassen, wenn Termine einen Hinweis (Alarm) haben, dass dieser übernommen wird.
-- Liste und Anzeige der neuen Termine funktioniert jetzt wirklich wie erwartet
++ Standard-Hinweis (Alarm) bei kopierten Terminen entfernt, das ist noch suboptimal gelöst. Dafür muss ich mir noch etwas einfallen lassen, wenn Termine einen Hinweis (Alarm) haben, dass dieser übernommen wird.
++ Liste und Anzeige der neuen Termine funktioniert jetzt wirklich wie erwartet
 
 Version 1.1.2
-- erste vollständig funktionierende Version
-- Liste und Anzeige der neuen Termine funktioniert wie erwartet
-- Liste-Beenden-Button eingebaut
++ erste vollständig funktionierende Version
++ Liste und Anzeige der neuen Termine funktioniert wie erwartet
++ Liste-Beenden-Button eingebaut
 
 Version 1.1.1
-- Leerzeichen aus "Nach Eingabe fragen" entfernen
-- UpdateKit Integration
++ Leerzeichen aus "Nach Eingabe fragen" entfernen
++ UpdateKit Integration
 
 Version 1.0
-- Erste Veröffentlichung
++ Erste Veröffentlichung
 
 
 ---
@@ -53,7 +59,7 @@ QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/2b6999cf6eda446ba4601181576bb3c9)
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/541ee4732fcc4f7f9338ceb9ea21fb6f)
 
 ---
 ### Kontakt für Hilfe und Fragen

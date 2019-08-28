@@ -183,6 +183,19 @@ Eine einzelne Datei hingegen wird bei der Auswahl heruntergeladen und übernomme
 - Zielordner: Abfrage in den Ablauf eingebaut, Anzeige des aktuellen Zielordners
 
 ---
+### Versionübersicht
+
+Version 1.0.1.1
++ Leerzeichen in allen Dateien und Verzeichnissen entfernt
+
+Version 1.0.1
++ Leerzeichen aus "Nach Eingabe fragen" entfernen
++ UpdateKit Integration
+
+Version 1.0
++ Erste Veröffentlichung
+
+---
 ### Download
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
@@ -191,7 +204,7 @@ QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/e637a063aec54fbba39f4cf9c4c07c7b)
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/d2f10ec6df434e8e80d89914572ecc5e)
 
 ---
 ### Kontakt für Hilfe und Fragen

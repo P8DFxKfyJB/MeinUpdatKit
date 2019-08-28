@@ -21,11 +21,11 @@ Die Anregung zu diesem Kurzbefehl stammt aus einer Anfrage aus einem Forum
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
-![QR-Code](?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
+![QR-Code](images/Bild.png?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl]()
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/ea76a50cd8e34121a6556476f3ce79c0)
 
 ---
 ### Kontakt für Hilfe und Fragen

@@ -8,8 +8,8 @@ Eintrag für UpdateKit-Integration
 
 Link für Update URL:
 
-https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kalendereinträge%20kopieren/Update.json
+https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kalendereinträge_kopieren/Update.json
 
 Link für Release Notes:
 
-https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kalendereinträge%20kopieren/Release%20Notes.txt
+https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Kalendereinträge_kopieren/Release_Notes.txt
