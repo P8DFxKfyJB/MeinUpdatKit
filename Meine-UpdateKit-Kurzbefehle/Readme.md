@@ -2,7 +2,7 @@
 
 Hier findest du eine Sammlung meiner veröffentlichten Kurzbefehle, die ich für veröffentlichungswert halte. Ich habe derzeit 500 Kurzbefehle auf meinen Geräten. Viele sind pure Basics, die werden hier auch veröffentlicht. Manche sind hochkomplex.
 
-Ich versuche nach und nach alles hier bereitzustellen. Manches Projekt hier ist noch nicht vollständug, einfach in ein paar Tagen wieder vorbei schauen.
+Ich versuche nach und nach alles hier bereitzustellen. Manches Projekt hier ist noch nicht vollständig, einfach alle paar Tagen wieder einmal vorbei schauen.
 
 ---
 ###  Übersicht und Kurzbeschreibung:
