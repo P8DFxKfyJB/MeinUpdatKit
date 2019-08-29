@@ -1,4 +1,4 @@
-# Kurzbefehl 1 für UpdateKit (Fehlt / ist in Bearbeitung)
+# Kurzbefehl 1 für UpdateKit
 
 Mein erster Kurzbefehl mit UpdateKit-Integration
 
@@ -16,7 +16,6 @@ QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-Fehlt / ist in Bearbeitung
 [Link zum Kurzbefehl](https://www.icloud.com/shortcuts/76d37f75c6be4f3f9ba066a5c455def4)
 
 ---
