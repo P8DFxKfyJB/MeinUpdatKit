@@ -1,0 +1,5 @@
+Versionsübersicht
+
+Version 0.3
++ Erste Veröffentlichung mit UpdateKit
++

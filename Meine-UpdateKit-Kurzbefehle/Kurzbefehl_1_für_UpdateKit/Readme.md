@@ -12,12 +12,12 @@ Der Kurzbefehl macht nicht. Er dient nur der Realisierung einer Integration von 
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
-Fehlt / ist in Bearbeitung
+![QR-Code](images/Bild.png?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
 Fehlt / ist in Bearbeitung
-[Link zum Kurzbefehl]()
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/76d37f75c6be4f3f9ba066a5c455def4)
 
 ---
 ### Kontakt für Hilfe und Fragen
