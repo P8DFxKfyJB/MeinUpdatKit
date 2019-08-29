@@ -1,4 +1,4 @@
-# Kurzbefehl 1 für UpdateKit
+# Kurzbefehl 1 für UpdateKit (Fehlt / ist in Bearbeitung)
 
 Mein erster Kurzbefehl mit UpdateKit-Integration
 
@@ -12,10 +12,11 @@ Der Kurzbefehl macht nicht. Er dient nur der Realisierung einer Integration von 
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
-![QR-Code](?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
+Fehlt / ist in Bearbeitung
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
+Fehlt / ist in Bearbeitung
 [Link zum Kurzbefehl]()
 
 ---

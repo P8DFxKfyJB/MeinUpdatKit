@@ -1,4 +1,4 @@
-# Meine-UpdateKit-Integration
+# Meine-UpdateKit-Integration Fehlt / ist in Bearbeitung
 
 Meine Vorlage für jeden neuen Kurzbefehl mit UpdateKit-Integration
 
@@ -12,10 +12,11 @@ Der Kurzbefehl macht nicht. Er ist eine Vorlage für jeden neuen Kurzbefehl, der
 
 QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
-![QR-Code](?resize=300&classes=caption "Link zum Download / Import in der Kurzbefehle-App")
+Fehlt / ist in Bearbeitung
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
+Fehlt / ist in Bearbeitung
 [Link zum Kurzbefehl]()
 
 ---
