@@ -1,0 +1,15 @@
+Made by Gwadro
+https://routinehub.co/user/gwadro
+/u/gwadro
+@gwadro
+
+
+Eintrag für UpdateKit-Integration
+
+Link für Update URL:
+
+https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Neuer_KB_mit_UpdateKit/Update.json
+
+Link für Release Notes:
+
+https://github.com/P8DFxKfyJB/MeinUpdatKit/raw/master/Meine-UpdateKit-Kurzbefehle/Neuer_KB_mit_UpdateKit/Release_Notes.txt
