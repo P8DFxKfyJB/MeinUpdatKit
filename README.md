@@ -5,9 +5,27 @@ Hier findest du alle meine veröffentlichten Kurzbefehle. Ab August 2019 unterst
 ---
 ### Übersicht meiner bisher hier veröffentlichten Kurzbefehlen
 
-[Link zu Meine UpdateKit-Kurzbefehle](https://github.com/P8DFxKfyJB/MeinUpdatKit/tree/master/Meine-UpdateKit-Kurzbefehle#meine-updatekit-kurzbefehle)
+[Link zu Meine UpdateKit-Kurzbefehle](Meine-UpdateKit-Kurzbefehle#meine-updatekit-kurzbefehle)
 
 ---
+### "Wie geht was, wie geht das hier?"
+
+Willkommen zur Rubrik "Wie geht was, wie geht das hier?"
+
+Hier findest du in Zukunft Beispiele, wie das mit den Kurzbefehlen überhaupt funktioniert.
+
+Angefangen mit dem Klassiker "Hello World" über Variablen, Magische Links, Wenn-dann-sonst und viele andere Inhalte aus der Vielzahl der Möglichkeiten. Dabei möchte ich alles so einfach wie möglich halten. Kompliziert machst DU es dann von ganz allein.
+
+[Link zu Meine UpdateKit-Kurzbefehle](Wie_geht_was_wie_geht_das_hier)
+
+
+---
+### Telegram Kanal für Updates zu meinen Kurzbefehlen:
+
+[Link zum Telegram-Kanal](https://t.me/SC_Updates_Gwadro)
+
+Einen Chat für Fragen und Anregungen zu meinen Kurzbefehlen findest du dort auch.
+
 ## Grundlegende Infos zu UpdateKit
 ---
 ### Was ist UpdateKit?

@@ -14,8 +14,7 @@ Dateien Sortieren & zusammenführen | Text oder PDF-Dateien "mergen" also zusamm
 Input >=< 100  | In welchem Bereich liegt eine Zahl? | [Zum Repo](Input_%3E%3D%3C_100)
 Kalendereinträge kopieren  |  Einträge aus einem Kalender in einen anderen kopieren | [Zum Repo](Kalendereinträge_kopieren)
 Kalenderfilter 📅 | Zeigt dir Kalenderbeiträge verschiedener Zeiträume an | [Zum Repo](Kalenderfilter_📅)
-Kurzbefehl 1 für UpdateKit | Mein erster Kurzbefehl mit UpdateKit-Integration | [Zum Repo](Kurzbefehl_1_für_UpdateKit)
-Meine-UpdateKit-Integration | Meine Vorlage für jeden neuen Kurzbefehl, der auch UpdateKit verwenden soll | [Zum Repo](Meine-UpdateKit-Integration)  
+Neuer KB mit UpdateKit | Meine Vorlage für jeden neuen Kurzbefehl, der auch UpdateKit verwenden soll | [Zum Repo](Neuer_KB_mit_UpdateKit)  
 Push Files to Mac SSH |  AirDrop für ältere Macs und andere Unix-Systeme |  [Zum Repo](Push_Files_to_Mac_SSH)
 
 ### Telegram Kanal für Updates zu meinen Kurzbefehlen:
