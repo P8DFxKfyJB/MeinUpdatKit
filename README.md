@@ -1,9 +1,13 @@
-# Meine UpdateKit-Kurzbefehle
+# Apple Siri Shortcuts
 
-Hier findest du alle meine veröffentlichten Kurzbefehle. Ab August 2019 unterstützt jeder Kurzbefehl UpdateKit.
+Hier findest Du Tipps und Anleitungen rund um die App Shortcuts, im Deutschen Kurzbefehle, von Apple.
 
+Apple hat im Frühjahr 2017 die sehr erfolgreiche App Workflow übernommen und zu Siri Shortcuts umgeformt. Die grundlegenden Funktionen wurden beibehalten und um einige schöne Möglichkeiten erweitert.
+Seit iOS 12 ist Siri Shortcuts immer populärer geworden und viele helle Köpfe haben die App sehr beliebt gemacht und zu deren Verbreitung in der iOS-Welt beigetragen.
 ---
 ### Übersicht meiner bisher hier veröffentlichten Kurzbefehlen
+
+Hier findest du alle meine veröffentlichten Kurzbefehle. Ab August 2019 unterstützt jeder Kurzbefehl UpdateKit. 
 
 [Link zu Meine UpdateKit-Kurzbefehle](Meine-UpdateKit-Kurzbefehle#meine-updatekit-kurzbefehle)
 
@@ -17,7 +21,6 @@ Hier findest du in Zukunft Beispiele, wie das mit den Kurzbefehlen überhaupt fu
 Angefangen mit dem Klassiker "Hello World" über Variablen, Magische Links, Wenn-dann-sonst und viele andere Inhalte aus der Vielzahl der Möglichkeiten. Dabei möchte ich alles so einfach wie möglich halten. Kompliziert machst DU es dann von ganz allein.
 
 [Link zu Meine UpdateKit-Kurzbefehle](Wie_geht_was_wie_geht_das_hier)
-
 
 ---
 ### Telegram Kanal für Updates zu meinen Kurzbefehlen:
