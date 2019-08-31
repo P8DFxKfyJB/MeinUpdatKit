@@ -6,6 +6,9 @@ Apple hat im Frühjahr 2017 die sehr erfolgreiche App Workflow übernommen und z
 
 Seit iOS 12 ist Siri Shortcuts immer populärer geworden und viele helle Köpfe haben die App sehr beliebt gemacht und zu deren Verbreitung in der iOS-Welt beigetragen.
 
+Ein Handbuch für Kurzbefehle hat Apple auf seiner Seite bereitgestellt. Ein Blick hinein lohnt allemal.
+[Kurzbefehle – Benutzerhandbuch](https://support.apple.com/de-de/guide/shortcuts/toc)
+
 ---
 ## Übersicht meiner bisher hier veröffentlichten Kurzbefehlen
 
