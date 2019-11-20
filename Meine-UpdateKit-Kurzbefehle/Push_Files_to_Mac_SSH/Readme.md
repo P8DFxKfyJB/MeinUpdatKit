@@ -18,7 +18,7 @@ Richtig, Airdrop bietet genau diese Funktion, aber mancher Mac ist schlicht zu a
 
 *Einstellungen Freigaben*
 
-![](images/SSH-Zugang.png)
+![SSH-Zugang.png](images/SSH-Zugang.png)
 
 **1. Aktiviere "Entfernte Anmeldung"**
 
