@@ -22,6 +22,15 @@ Dann bist du hier richtig. Der Kurzbefehl importiert Termine aus einem Kalender 
 ---
 ### Versionsübersicht
 
+Version 1.1.3.2
+
+Datum: 20.11.2019
+
++ Es gibt ein Menü für den Zeitraum der durchsucht wird
+  - den aktuellen Monat
+  - den nächsten Monat
+  - x Monate zurück und x Monate voraus
+
 Version 1.1.3.1
 
 Datum: 28.08.2019
