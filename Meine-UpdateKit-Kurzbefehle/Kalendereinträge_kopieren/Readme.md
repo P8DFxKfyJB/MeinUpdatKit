@@ -22,6 +22,12 @@ Dann bist du hier richtig. Der Kurzbefehl importiert Termine aus einem Kalender 
 ---
 ### Versionsübersicht
 
+Version 1.1.3.3
+
+Datum: 21.11.2019
+
++ Fix im Bereich Datum für den aktuellen Monat
+
 Version 1.1.3.2
 
 Datum: 20.11.2019
@@ -68,7 +74,7 @@ QR-Code für den schnellen Import mit dem integrierten QR-Scanner deine iDevices
 
 Klassischer Download-Link im **Safari** deines iDevices.
 
-[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/c9ea587734f548579ef39ceef1eb9fab)
+[Link zum Kurzbefehl](https://www.icloud.com/shortcuts/5fdeefd1dadb46d9b4860032090d11bd)
 
 ---
 ### Kontakt für Hilfe und Fragen
