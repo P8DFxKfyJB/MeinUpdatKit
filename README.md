@@ -28,13 +28,7 @@ Angefangen mit dem Klassiker "Hello World" über Variablen, Magische Links, Wenn
 [Hier gehts zur Rubrik "Wie geht was, wie geht das hier?"](Wie_geht_was_wie_geht_das_hier)
 
 ---
-## Telegram Kanal für Updates zu meinen Kurzbefehlen:
 
-[Link zum Telegram-Kanal](https://t.me/SC_Updates_Gwadro)
-
-Einen Chat für Fragen und Anregungen zu meinen Kurzbefehlen, aber auch grundlegenden Fragen zur App und dem Software-Umfeld der Kurzbefehle-App findest du dort auch.
-
----
 ## Grundlegende Infos zu UpdateKit
 ---
 ### Was ist UpdateKit?
@@ -83,16 +77,3 @@ Liegt ein Update vor, erhältst du ein Hinweis darauf und hast folgende Auswahl:
 + Später erinnern / Du wirst bei der nächsten Überprüfung erneut erinnert.
 
 ---
-## Kontakt und Support
-
-### Telegram Kanal für Updates zu meinen Kurzbefehlen
-
-[Link zum Telegram-Kanal](https://t.me/SC_Updates_Gwadro)
-
-Einen Chat für Fragen und Anregungen zu meinen Kurzbefehlen findest du dort auch.
-
-### Forum auf apfektalk.de
-
-[Unterforum auf apfeltalk.de](https://www.apfeltalk.de/community/threads/apple-kurzbefehle-hilfe-anleitungen-kfka.533890/) Dort haben wir einen eigenen Bereich für Shortcuts/Kurzbefehle, schau einfach mal vorbei.
-
-Es gibt auch eine kleine [Sammlung von Kurzbefehlen](https://www.apfeltalk.de/community/threads/sammlung-nuetzlicher-kurzbefehle.534621/) dort. Nichts aufregendes, sondern mehr aus den Anfängen, als Workflow / Shortcuts populär wurde.
